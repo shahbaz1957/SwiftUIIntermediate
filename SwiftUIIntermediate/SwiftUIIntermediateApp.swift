@@ -12,7 +12,8 @@ struct SwiftUIIntermediateApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            TransitionView()
+//            TransitionView()
+            NavigationViewAndLink()
         }
     }
 }
