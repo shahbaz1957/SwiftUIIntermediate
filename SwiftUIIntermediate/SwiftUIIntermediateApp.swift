@@ -13,7 +13,8 @@ struct SwiftUIIntermediateApp: App {
         WindowGroup {
 //            ContentView()
 //            TransitionView()
-            NavigationViewAndLink()
+//            NavigationViewAndLink()
+            ListCrud()
         }
     }
 }
